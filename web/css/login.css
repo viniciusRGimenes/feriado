@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.btn{
+    width: 100%;
+}
